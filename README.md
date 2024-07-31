@@ -1,4 +1,8 @@
 # Data Cleaning and Analysis using SQL
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
 ## Overview
 This project demonstrates techniques such as data cleaning as well as exploratory data analysis using SQL.
 - Data cleaning is an essential step in the data analysis process, ensuring that your data is accurate, consistent, and usable for analysis.
